@@ -1,16 +1,26 @@
-# Trabalho- Q Bank
+Q Bank - Módulo de Cadastro de Contas
+Gerencie contas bancárias com segurança e eficiência.
 
-O módulo de Cadastro de Contas do QBank permite gerenciar contas bancárias com segurança. Ele inclui funcionalidades básicas de cadastro, login e atualização de perfil.
+✨ Visão Geral
+O módulo de Cadastro de Contas do Q Bank oferece ferramentas robustas para criação e gerenciamento de contas bancárias, proporcionando uma experiência confiável e segura para os usuários.
 
-## Funcionalidades
+⚙️ Funcionalidades
+📋 Cadastro de Usuários
+Permite a criação de novas contas com informações pessoais e bancárias.
 
-- **Cadastro de Usuários**: Criação de uma nova conta com dados de perfil.
-- **Login Seguro**: Autenticação segura com criptografia de senhas.
-- **Atualização de Perfil**: Modificação de informações cadastrais, como endereço e dados de contato.
-- **Consulta de Informações da Conta**: Visualização de dados da conta diretamente do banco de dados.
+🔐 Login Seguro
+Autenticação protegida com criptografia de senhas, garantindo a privacidade do usuário.
 
-### Pré-requisitos
-- **Java 11+**
-- **Maven** (para gerenciamento de dependências)
-- **Banco de Dados Relacional** (PostgreSQL ou MySQL recomendado)
-- **Driver JDBC** (correspondente ao banco de dados escolhido)
+✏️ Atualização de Perfil
+Modifique facilmente informações como endereço, número de contato e outros dados cadastrais.
+
+🔍 Consulta de Informações da Conta
+Acesse detalhes da conta diretamente do banco de dados.
+
+🛠️ Pré-requisitos
+Para executar este módulo, você precisará:
+
+Java 11+
+Maven (para gerenciamento de dependências)
+Banco de Dados Relacional (recomendado: PostgreSQL ou MySQL)
+Driver JDBC correspondente ao banco de dados escolhido
