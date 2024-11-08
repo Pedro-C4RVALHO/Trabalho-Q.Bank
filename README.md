@@ -9,8 +9,6 @@ O módulo de Cadastro de Contas do QBank permite gerenciar contas bancárias com
 - **Atualização de Perfil**: Modificação de informações cadastrais, como endereço e dados de contato.
 - **Consulta de Informações da Conta**: Visualização de dados da conta diretamente do banco de dados.
 
-## Instalação
-
 ### Pré-requisitos
 - **Java 11+**
 - **Maven** (para gerenciamento de dependências)
