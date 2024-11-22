@@ -10,9 +10,9 @@ name: Maven
 
 on:
   push:
-    branches: [ master ]
+    branches: [ Banco ]
   pull_request:
-    branches: [ master ]
+    branches: [ Banco ]
 
 jobs:
   build:
