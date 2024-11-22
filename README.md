@@ -16,10 +16,10 @@ Autenticação protegida com criptografia de senhas, garantindo a privacidade do
 ## ✏️ Atualização de Perfil
 Modifique facilmente informações como endereço, número de contato e outros dados cadastrais.
 
-🔍 Consulta de Informações da Conta
+##🔍 Consulta de Informações da Conta
 Acesse detalhes da conta diretamente do banco de dados.
 
-🛠️ Pré-requisitos
+##🛠️ Pré-requisitos
 Para executar este módulo, você precisará:
 
 Java 11+
